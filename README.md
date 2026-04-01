@@ -1,3 +1,4 @@
+.gitignore
 # Active Directory User Management Lab
 
 ##  Overview
