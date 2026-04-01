@@ -1,1 +1,11 @@
 
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.env
+*.key
+*.pem
+__pycache__/
+*.pyc
+.vscode/
