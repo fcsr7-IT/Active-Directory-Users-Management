@@ -48,7 +48,10 @@ This project simulates an enterprise IT environment focused on Active Directory 
 ---
 
 ## 📸 Screenshots
-*(Add images here)*
+*(## 📸 Screenshots
+
+### Active Directory Users & Groups
+![Active Directory Users](VirtualBox_2022_Win DC_01_04_2026_19_09_14.png)Add images here)*
 
 Example:
 ```markdown
