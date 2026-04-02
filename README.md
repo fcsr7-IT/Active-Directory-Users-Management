@@ -49,6 +49,6 @@ This project simulates an enterprise IT environment focused on Active Directory 
 ## 📸 Screenshots
 
 ### Active Directory Users & Groups
-![Active Directory Users](ad-users.png)
+ad-users.png
 
 
