@@ -53,8 +53,7 @@ This project simulates an enterprise IT environment focused on Active Directory 
 ### Active Directory Users & Groups
 ![Active Directory Users](ad-users.png)
 
-### Active Directory Users & Groups
-(VirtualBox_2022_Win DC_01_04_2026_19_09_14.png)
+
 
 
 
