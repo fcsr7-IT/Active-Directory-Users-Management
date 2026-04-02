@@ -45,10 +45,13 @@ This project simulates an enterprise IT environment focused on Active Directory 
 - Updated permissions using RBAC principles  
 - Validated user access to resources  
 
----
+-
+-
 ## 📸 Screenshots
 
 ### Active Directory Users & Groups
-ad-users.png
+![Active Directory Users](VirtualBox_2022_Win DC_01_04_2026_19_09_14.png)
+
+
 
 
