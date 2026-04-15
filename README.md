@@ -1,3 +1,8 @@
+# Hi, I'm Fred
+## 📫 Connect with Me
+
+- LinkedIn: Fred Davis(https://www.linkedin.com/in/fred-davis2/)
+- GitHub: fcsr7-IT(https://github.com/fcsr7-IT)
 # Active Directory User Management Lab
 
 ##  Overview
