@@ -45,7 +45,7 @@ This project simulates an enterprise IT environment focused on Active Directory 
 ![AD Structure](ad-users.png)
 
 ### User Account Example
-![User Properties](user-properties.png)
+!User Properties(user-properties.png)
 - Verified account status in Active Directory  
 - Reviewed password and lockout policies  
 - Reset account and restored user access  
