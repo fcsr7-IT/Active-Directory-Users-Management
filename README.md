@@ -31,10 +31,10 @@ This project demonstrates hands-on experience with Active Directory administrati
 ![AD Structure](ad-users.png)
 
 ### AD Groups
-![AD Groups](ad-groups.png)
+![AD Groups](ad-ITteams.png)
 
 ### AD Users
-![AD Users](ad-users-list.png)
+![AD Users](ad-ulockout.png)
 Active Directory User Management Lab
 
 
