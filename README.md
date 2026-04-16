@@ -26,6 +26,8 @@ This project demonstrates hands-on experience with Active Directory administrati
 
 ## Screenshot
 ![Active Directory](ad-users.png)
+![Active Directory](ad-ulockout.png)
+![Active Directory](ad-ITteam.png)
 
 
 
