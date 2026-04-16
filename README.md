@@ -25,7 +25,7 @@ This project demonstrates hands-on experience with Active Directory administrati
 - Resolved account lockouts and access issues  
 
   ## Screenshot
-![Active Directory](ADDS OU Grp.png)
+!ADDS OU Grp.png
 
 
 
