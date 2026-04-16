@@ -24,6 +24,9 @@ This project demonstrates hands-on experience with Active Directory administrati
 - Applied Group Policy settings  
 - Resolved account lockouts and access issues  
 
+  ## Screenshot
+![Active Directory](ad-users.png)
+
 
 
 
