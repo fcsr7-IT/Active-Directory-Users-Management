@@ -43,6 +43,7 @@ This project simulates an enterprise IT environment focused on Active Directory 
 
 ### Active Directory Structure
 ![AD Structure](ad-users.png)
+<img width="1920" height="915" alt="ADDS OU Grp" src="https://github.com/user-attachments/assets/474170b3-e8ca-4831-b82b-06f2d88ac5b5" />
 
 ### User Account Example
 !User Properties(user-properties.png)
