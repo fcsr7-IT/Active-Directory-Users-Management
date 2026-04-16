@@ -1,3 +1,4 @@
+#
 # Active Directory User Management Lab
 
 ## 📫 Connect with Me
@@ -24,10 +25,17 @@ This project demonstrates hands-on experience with Active Directory administrati
 - Applied Group Policy settings  
 - Resolved account lockouts and access issues  
 
-## Screenshot
-![Active Directory](ad-users.png)
-![Active Directory](ad-ulockout.png)
-![Active Directory](ad-ITteam.png)
+## 📸 Screenshots
+
+### AD Structure
+![AD Structure](ad-users.png)
+
+### AD Groups
+![AD Groups](ad-groups.png)
+
+### AD Users
+![AD Users](ad-users-list.png)
+Active Directory User Management Lab
 
 
 
