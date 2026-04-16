@@ -26,7 +26,8 @@ This project demonstrates hands-on experience with Active Directory administrati
 
   ## Screenshot
   ad-users.png
-  images/
+  
+
 
 
 
