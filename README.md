@@ -1,5 +1,4 @@
-#
-# Active Directory User Management Lab
+## Active Directory User Management Lab
 
 ## 📫 Connect with Me
 - LinkedIn: [Fred Davis](https://www.linkedin.com/in/fred-davis2/)
@@ -31,11 +30,11 @@ This project demonstrates hands-on experience with Active Directory administrati
 ![AD Structure](ad-users.png)
 
 ### AD Groups
-![AD Groups](ad-group.png)
+![AD Groups](ad-groups.png)
 
 ### AD Users
-![AD Users](ad-ulockout.png)
-Active Directory User Management Lab
+![AD Users](ad-users-list.png)
+# Lab
 
 
 
