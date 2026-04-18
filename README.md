@@ -27,7 +27,7 @@ This project demonstrates hands-on experience with Active Directory administrati
 ## 📸 Screenshots
 
 ### AD Structure
-![AD Structure](ad-users.png)
+![AD Structure](ad-ougp.png)
 
 ### AD Groups
 ![AD Groups](ad-groups.png)
