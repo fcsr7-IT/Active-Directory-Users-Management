@@ -31,7 +31,7 @@ This project demonstrates hands-on experience with Active Directory administrati
 ![AD Structure](ad-users.png)
 
 ### AD Groups
-![AD Groups](ad-ITteam.png)
+![AD Groups](ad-group.png)
 
 ### AD Users
 ![AD Users](ad-ulockout.png)
