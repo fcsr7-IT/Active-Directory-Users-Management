@@ -26,6 +26,11 @@ This project demonstrates hands-on experience with Active Directory administrati
 
 ## 📸 Screenshots
 
+### Active Directory Structure
+![AD Structure](ad-users.png)
+
+### Password Reset (User Support Task)
+![Password Reset](ad-password-reset.png)
 
 
 
