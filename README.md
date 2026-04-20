@@ -26,15 +26,7 @@ This project demonstrates hands-on experience with Active Directory administrati
 
 ## 📸 Screenshots
 
-### AD Structure
-![AD Structure](ad-group1.png)
 
-### AD Groups
-![AD Groups](ad-ITteam.png)
-
-### AD Users
-![AD Users](ad-ulockout.png)
-# Lab
 
 
 
