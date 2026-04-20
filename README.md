@@ -11,7 +11,7 @@ Hands-on experience includes user account management, password resets, and troub
 
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/fred-davis2/
-- GitHub: https://github.com/fcsr7-IT
+- GitHub: https://github.com/Active-Directory-Users-Management
 ## Active Directory User Management Lab
 
 ## 📫 Connect with Me
