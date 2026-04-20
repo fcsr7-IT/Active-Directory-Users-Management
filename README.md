@@ -1,3 +1,17 @@
+# Fred Davis
+
+## IT Support Technician | Active Directory | Networking | CCNA | Security+
+
+IT Support professional with 2+ years of experience supporting Windows environments, Active Directory user management, and network connectivity issues. 
+
+Hands-on experience includes user account management, password resets, and troubleshooting Tier 1–2 incidents. GitHub projects demonstrate real-world IT support tasks and system administration skills.
+
+## 📂 Projects
+- Active Directory User Management Lab
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/fred-davis2/
+- GitHub: https://github.com/fcsr7-IT
 ## Active Directory User Management Lab
 
 ## 📫 Connect with Me
