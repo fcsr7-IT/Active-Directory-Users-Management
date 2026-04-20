@@ -16,7 +16,7 @@ Hands-on experience includes user account management, password resets, and troub
 
 ## 📫 Connect with Me
 - LinkedIn: [Fred Davis](https://www.linkedin.com/in/fred-davis2/)
-- GitHub: [fcsr7-IT](https://github.com/fcsr7-IT)
+- GitHub: [fcsr7-IT](https://github.com/Active-Directory-Users-Management)
 
 ## Overview
 This project demonstrates hands-on experience with Active Directory administration in a Windows Server environment, including user management, group policy, and access control.
